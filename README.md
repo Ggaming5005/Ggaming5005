@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  [![Ggaming5005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ggaming5005&show_icons=true&line_height=27&count_private=true&title_color=ffffff&border_color=#88e788&text_color=c9cacc&icon_color=ff0000&bg_color=#7ca37c)](#)
+  [![Ggaming5005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ggaming5005&show_icons=true&line_height=27&count_private=true&title_color=88e788&border_color=88e788&text_color=c9cacc&icon_color=ff0000&bg_color=402f2f)](#)
 
 </div>
 
