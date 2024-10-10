@@ -14,9 +14,9 @@
 
 <div align="center">
   
-  [![Visits Badge](https://badges.strrl.dev/visits/Ggaming5005/Ggaming5005?style=for-the-badge&color=ff3131)](#)
-  [![Repos Badge](https://badges.strrl.dev/repos/Ggaming5005?style=for-the-badge&color=ff3131)](https://github.com/Ggaming5005?tab=repositories)
-  [![Commits Badge](https://badges.strrl.dev/commits/weekly/Ggaming5005?style=for-the-badge&color=ff3131)](https://github.com/Ggaming5005?tab=repositories)
+  [![Visits Badge](https://badges.strrl.dev/visits/Ggaming5005/Ggaming5005?style=for-the-badge&color=#88e788)](#)
+  [![Repos Badge](https://badges.strrl.dev/repos/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
+  [![Commits Badge](https://badges.strrl.dev/commits/weekly/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
 
 </div>
 
@@ -27,11 +27,11 @@
 </div>
 
 <div align="center">
-  <h2>LISTENING TO</h2>
+  <h2>🎶 LISTENING TO 🎶</h2>
 </div>
 
 <div align="center">
 
- [![Ggaming5005's Spotify Music](https://data-card-for-spotify.herokuapp.com/api/card?user_id=your-spotify-id)](#)
+ [![Ggaming5005's Spotify Music](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ryaajn25pi34grhbv367n7bnya)](#)
   
 </div>
