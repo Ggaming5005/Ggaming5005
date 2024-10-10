@@ -34,3 +34,12 @@
  [![Ggaming5005's Spotify Music](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ryaajn25pi34grhbv367n7bnya)](#)
   
 </div>
+
+## 📊 GitHub Stats
+![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ggaming5005&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ggaming5005&layout=compact&theme=dark)
+
+---
+
+Thanks for visiting my profile!
