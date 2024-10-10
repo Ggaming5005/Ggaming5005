@@ -1,26 +1,37 @@
-# Hi there, I'm Gio 👋
+[![Hi, I'm Gio](./assets/banner.png)](#)
 
-## 💻 About Me
-I'm a 15-year-old developer passionate about building cool projects with React and exploring new technologies. Welcome to my GitHub!
+<div align="center">
+  
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+  [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-spotify-id)
+  
+</div>
 
-- 🔭 I’m currently working on [Rebook](https://github.com/Ggaming5005/Rebook)
-- 🌱 I’m learning more about frontend development, focusing on React and UI design.
-- 📫 Reach me at: **[Your Email]**
+<div align="center">
+  <h2>🚀 GITHUB STATS</h2>
+</div>
 
-## 🚀 Projects
-- [Rebook](https://github.com/Ggaming5005/Rebook): A book store web app
-- [More Projects](#)
+<div align="center">
+  
+  [![Visits Badge](https://badges.strrl.dev/visits/Ggaming5005/Ggaming5005?style=for-the-badge&color=ff3131)](#)
+  [![Repos Badge](https://badges.strrl.dev/repos/Ggaming5005?style=for-the-badge&color=ff3131)](https://github.com/Ggaming5005?tab=repositories)
+  [![Commits Badge](https://badges.strrl.dev/commits/weekly/Ggaming5005?style=for-the-badge&color=ff3131)](https://github.com/Ggaming5005?tab=repositories)
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+</div>
 
-## 📊 GitHub Stats
-![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ggaming5005&show_icons=true&theme=dark)
+<div align="center">
+  [![Ggaming5005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ggaming5005&show_icons=true&line_height=27&count_private=true&title_color=ffffff&border_color=ff3131&text_color=c9cacc&icon_color=ff0000&bg_color=402f2f)](#)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ggaming5005&layout=compact&theme=dark)
+<div align="center">
+  <h2>🎶 LISTENING TO</h2>
+</div>
+
+<div align="center">
+  [![Ggaming5005's Spotify Music](https://data-card-for-spotify.herokuapp.com/api/card?user_id=your-spotify-id)](#)
+</div>
 
 ---
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! 🌟 Feel free to connect with me! 🤝
