@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <h2>GITHUB STATS</h2>
+  <h2>📊 GITHUB STATS 📊</h2>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
   [![Visits Badge](https://badges.strrl.dev/visits/Ggaming5005/Ggaming5005?style=for-the-badge&color=#88e788)](#)
   [![Repos Badge](https://badges.strrl.dev/repos/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
   [![Commits Badge](https://badges.strrl.dev/commits/weekly/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
-
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ggaming5005&layout=compact&theme=dark)
 </div>
 
 <div align="center">
@@ -47,11 +47,6 @@
  [![Ggaming5005's Spotify Music](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ryaajn25pi34grhbv367n7bnya)](#)
   
 </div>
-
-## 📊 GitHub Stats
-![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ggaming5005&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ggaming5005&layout=compact&theme=dark)
 
 ---
 
