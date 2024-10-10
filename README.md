@@ -1,5 +1,4 @@
-[![Hi, I'm Gio](./assets/banner.png)](#)
-
+# Hi, I'm Gio 👋
 <div align="center">
   
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -22,7 +21,7 @@
 
 <div align="center">
 
-  [![Ggaming5005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ggaming5005&show_icons=true&line_height=27&count_private=true&title_color=88e788&border_color=88e788&text_color=c9cacc&icon_color=ff0000&bg_color=88e788)](#)
+  [![Ggaming5005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ggaming5005&show_icons=true&line_height=27&count_private=true&title_color=ffffff&border_color=88e788&text_color=c9cacc&icon_color=ff0000&bg_color=402f2f)](#)
 
 </div>
 
