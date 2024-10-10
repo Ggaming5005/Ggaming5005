@@ -31,11 +31,6 @@
   [![Commits Badge](https://badges.strrl.dev/commits/weekly/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
 </div>
 <br>
-<div align="center">
-  
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ggaming5005&layout=compact&theme=dark)
- 
-</div>
   
 <div align="center">
 
