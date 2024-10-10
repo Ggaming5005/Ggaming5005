@@ -1,4 +1,4 @@
-[![Hi, I'm Gio](./assets/banner.png)](#)
+[![Hi, I'm Gio]
 
 <div align="center">
   
@@ -14,9 +14,9 @@
 
 <div align="center">
   
-  [![Visits Badge](https://badges.strrl.dev/visits/Ggaming5005/Ggaming5005?style=for-the-badge&color=ff3131)](#)
-  [![Repos Badge](https://badges.strrl.dev/repos/Ggaming5005?style=for-the-badge&color=ff3131)](https://github.com/Ggaming5005?tab=repositories)
-  [![Commits Badge](https://badges.strrl.dev/commits/weekly/Ggaming5005?style=for-the-badge&color=ff3131)](https://github.com/Ggaming5005?tab=repositories)
+  [![Visits Badge](https://badges.strrl.dev/visits/Ggaming5005/Ggaming5005?style=for-the-badge&color=#88e788)](#)
+  [![Repos Badge](https://badges.strrl.dev/repos/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
+  [![Commits Badge](https://badges.strrl.dev/commits/weekly/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
 
 </div>
 
