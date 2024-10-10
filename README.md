@@ -51,5 +51,3 @@
 ---
 
 Thanks for visiting my profile!
-
-make the gio work
