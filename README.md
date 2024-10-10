@@ -29,7 +29,7 @@
   [![Visits Badge](https://badges.strrl.dev/visits/Ggaming5005/Ggaming5005?style=for-the-badge&color=#88e788)](#)
   [![Repos Badge](https://badges.strrl.dev/repos/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
   [![Commits Badge](https://badges.strrl.dev/commits/weekly/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ggaming5005&layout=compact&theme=dark)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ggaming5005&layout=compact&theme=dark)
 </div>
 
 <div align="center">
