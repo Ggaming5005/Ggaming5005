@@ -1,53 +1,54 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ggaming5005.Ggaming5005" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gio!;" />
+</h1>
+<h3 align="center">Self-taught software developer from Georgia 🇬🇪</h3>
+<br/>
 <div align="center">
-  <pre>
-  ▄████  ██▓ ▒█████  
- ██▒ ▀█▒▓██▒▒██▒  ██▒
-▒██░▄▄▄░▒██▒▒██░  ██▒
-░▓█  ██▓░██░▒██   ██░
-░▒▓███▀▒░██░░ ████▓▒░
- ░▒   ▒ ░▓  ░ ▒░▒░▒░ 
-  ░   ░  ▒ ░  ░ ▒ ▒░ 
-░ ░   ░  ▒ ░░ ░ ░ ▒  
-      ░  ░      ░ ░  
-                      
-  </pre>
-</div>
-<div align="center">
-  
-  <a href="mailto:ggaming5005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/687322874100580368)
-  [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ryaajn25pi34grhbv367n7bnya)
-  
-</div>
+
+ 🔭 Currently building **GioJS - a Rust/Node SSR framework**
+
+ 🎮 Roblox game engineer - **RNG / gacha / simulator systems in Luau**
+
+ 🌱 Currently learning **Rust, WebGPU, Wasm**
+
+ ⚡ Fun fact **I've shipped games, a framework, and my own CDN - all self-taught**
+ </div>
 
 <div align="center">
-  <h2>📊 GITHUB STATS 📊</h2>
+  <a href="https://www.linkedin.com/in/g89/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/687322874100580368" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </div>
+ <hr/>
 
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<br/>
 <div align="center">
-  
-  [![Visits Badge](https://badges.strrl.dev/visits/Ggaming5005/Ggaming5005?style=for-the-badge&color=#88e788)](#)
-  [![Repos Badge](https://badges.strrl.dev/repos/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
-  [![Commits Badge](https://badges.strrl.dev/commits/weekly/Ggaming5005?style=for-the-badge&color=#88e788)](https://github.com/Ggaming5005?tab=repositories)
+    <img src="https://skillicons.dev/icons?i=rust,typescript,react,nextjs,nodejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,c,flutter,lua" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cloudflare,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,css,vercel,npm" />
+
 </div>
+<br/>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ggaming5005/Ggaming5005/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-  
-<div align="center">
-
-  [![Ggaming5005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ggaming5005&show_icons=true&line_height=27&count_private=true&title_color=ffffff&border_color=88e788&text_color=c9cacc&icon_color=005700&bg_color=303030)](#)
-
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Ggaming5005&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ggaming5005&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ggaming5005&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
-
-<div align="center">
-  <h2>🎶 LISTENING TO 🎶</h2>
-</div>
-
-<div align="center">
-
- [![Ggaming5005's Spotify Music](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ryaajn25pi34grhbv367n7bnya)](#)
-  
-</div>
-
----
-
-Thanks for visiting my profile!
+<br/><br/>
